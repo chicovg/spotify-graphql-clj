@@ -1,0 +1,994 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+            "id": "5lFXWUhnMLnuubYAtgKKXa",
+            "name": "Andy Narell",
+            "type": "artist",
+            "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4uAk5dkfA8AMfyGqmX9MqZ"
+        },
+        "href": "https://api.spotify.com/v1/albums/4uAk5dkfA8AMfyGqmX9MqZ",
+        "id": "4uAk5dkfA8AMfyGqmX9MqZ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273666ce3f72ac06d3e1a933130",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02666ce3f72ac06d3e1a933130",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851666ce3f72ac06d3e1a933130",
+            "width": 64
+          }
+        ],
+        "name": "The Long Time Band",
+        "release_date": "1995-05-08",
+        "release_date_precision": "day",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:4uAk5dkfA8AMfyGqmX9MqZ"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 312000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USWH19501097"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2f23WSCp5lfUUSmns7WxYG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2f23WSCp5lfUUSmns7WxYG",
+      "id": "2f23WSCp5lfUUSmns7WxYG",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Jenny's Room",
+      "popularity": 15,
+      "preview_url": "https://p.scdn.co/mp3-preview/539f36edf0722b09649d9331caa480671ad4a719?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2f23WSCp5lfUUSmns7WxYG"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+            "id": "5lFXWUhnMLnuubYAtgKKXa",
+            "name": "Andy Narell",
+            "type": "artist",
+            "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6hw0CQmgdjO1cF836d3tA9"
+        },
+        "href": "https://api.spotify.com/v1/albums/6hw0CQmgdjO1cF836d3tA9",
+        "id": "6hw0CQmgdjO1cF836d3tA9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fcd01c20b5d470d347470bec",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fcd01c20b5d470d347470bec",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fcd01c20b5d470d347470bec",
+            "width": 64
+          }
+        ],
+        "name": "Slow Motion",
+        "release_date": "1985-02-01",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:6hw0CQmgdjO1cF836d3tA9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/21og01vigGgPGi1EPjcSON"
+          },
+          "href": "https://api.spotify.com/v1/artists/21og01vigGgPGi1EPjcSON",
+          "id": "21og01vigGgPGi1EPjcSON",
+          "name": "Steve Erquiaga",
+          "type": "artist",
+          "uri": "spotify:artist:21og01vigGgPGi1EPjcSON"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/10HOG3qITn9DaVxNdWz9y1"
+          },
+          "href": "https://api.spotify.com/v1/artists/10HOG3qITn9DaVxNdWz9y1",
+          "id": "10HOG3qITn9DaVxNdWz9y1",
+          "name": "Keith Jones",
+          "type": "artist",
+          "uri": "spotify:artist:10HOG3qITn9DaVxNdWz9y1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/307VFtATrDe1wEoMxsE67Y"
+          },
+          "href": "https://api.spotify.com/v1/artists/307VFtATrDe1wEoMxsE67Y",
+          "id": "307VFtATrDe1wEoMxsE67Y",
+          "name": "Kenneth Nash",
+          "type": "artist",
+          "uri": "spotify:artist:307VFtATrDe1wEoMxsE67Y"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7IukhlE0o6NJnQBvRC5i4R"
+          },
+          "href": "https://api.spotify.com/v1/artists/7IukhlE0o6NJnQBvRC5i4R",
+          "id": "7IukhlE0o6NJnQBvRC5i4R",
+          "name": "William Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:7IukhlE0o6NJnQBvRC5i4R"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 510000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "TCACF1595710"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0aeeDGAbYK4GnRfLZ9S7Mh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0aeeDGAbYK4GnRfLZ9S7Mh",
+      "id": "0aeeDGAbYK4GnRfLZ9S7Mh",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Natty Stick (feat. Steve Erquiaga, Keith Jones, Kenneth Nash & William Kennedy)",
+      "popularity": 15,
+      "preview_url": "https://p.scdn.co/mp3-preview/7b829d0df0aee8d000d2d15197039f183e2cbb84?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0aeeDGAbYK4GnRfLZ9S7Mh"
+    },
+    {
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6Fo4dwa90VBEazdDqkecIt"
+        },
+        "href": "https://api.spotify.com/v1/albums/6Fo4dwa90VBEazdDqkecIt",
+        "id": "6Fo4dwa90VBEazdDqkecIt",
+        "images": [
+          {
+            "height": 636,
+            "url": "https://i.scdn.co/image/c311849e124469bc634a5226b462fc8a6957d44f",
+            "width": 640
+          },
+          {
+            "height": 298,
+            "url": "https://i.scdn.co/image/55f8f98cfc888b118a09c0b3e0c0107c1b5cee1a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/c789ca6a812a545b2c0c6737a69d3a0011c7194b",
+            "width": 64
+          }
+        ],
+        "name": "The Essential Winter's Solstice",
+        "release_date": "2005-10-18",
+        "release_date_precision": "day",
+        "total_tracks": 29,
+        "type": "album",
+        "uri": "spotify:album:6Fo4dwa90VBEazdDqkecIt"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6kEWURC4QNQKpWGW8sy9D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/6kEWURC4QNQKpWGW8sy9D9",
+          "id": "6kEWURC4QNQKpWGW8sy9D9",
+          "name": "Tom Miller",
+          "type": "artist",
+          "uri": "spotify:artist:6kEWURC4QNQKpWGW8sy9D9"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 239453,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USWH19001125"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Vjlnku8GVQcoBHWaQXKIN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Vjlnku8GVQcoBHWaQXKIN",
+      "id": "6Vjlnku8GVQcoBHWaQXKIN",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Sleepers Awake (from Cantata #140 Wachet Auf)",
+      "popularity": 14,
+      "preview_url": "https://p.scdn.co/mp3-preview/97f2b430d67c19e46fc574fff396d7b19c5aac6b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6Vjlnku8GVQcoBHWaQXKIN"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+            "id": "5lFXWUhnMLnuubYAtgKKXa",
+            "name": "Andy Narell",
+            "type": "artist",
+            "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1TPJPaZAC0P0edGUFKWpM1"
+        },
+        "href": "https://api.spotify.com/v1/albums/1TPJPaZAC0P0edGUFKWpM1",
+        "id": "1TPJPaZAC0P0edGUFKWpM1",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e93a9f8dfea63d27a7728556",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e93a9f8dfea63d27a7728556",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e93a9f8dfea63d27a7728556",
+            "width": 64
+          }
+        ],
+        "name": "Fire in the Engine Room",
+        "release_date": "2000-02-01",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:1TPJPaZAC0P0edGUFKWpM1"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2rGijjw2ts6q9FJGO7QYRo"
+          },
+          "href": "https://api.spotify.com/v1/artists/2rGijjw2ts6q9FJGO7QYRo",
+          "id": "2rGijjw2ts6q9FJGO7QYRo",
+          "name": "Louis Mhlanga",
+          "type": "artist",
+          "uri": "spotify:artist:2rGijjw2ts6q9FJGO7QYRo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/10HOG3qITn9DaVxNdWz9y1"
+          },
+          "href": "https://api.spotify.com/v1/artists/10HOG3qITn9DaVxNdWz9y1",
+          "id": "10HOG3qITn9DaVxNdWz9y1",
+          "name": "Keith Jones",
+          "type": "artist",
+          "uri": "spotify:artist:10HOG3qITn9DaVxNdWz9y1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/453Rlyaam6zdXxWIfB9vPV"
+          },
+          "href": "https://api.spotify.com/v1/artists/453Rlyaam6zdXxWIfB9vPV",
+          "id": "453Rlyaam6zdXxWIfB9vPV",
+          "name": "Jesús Díaz",
+          "type": "artist",
+          "uri": "spotify:artist:453Rlyaam6zdXxWIfB9vPV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/65sW4NiDAbj9MCETiMjdM6"
+          },
+          "href": "https://api.spotify.com/v1/artists/65sW4NiDAbj9MCETiMjdM6",
+          "id": "65sW4NiDAbj9MCETiMjdM6",
+          "name": "Paul VanWageningen",
+          "type": "artist",
+          "uri": "spotify:artist:65sW4NiDAbj9MCETiMjdM6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 492480,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "TCACF1586249"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5s9glAvqphgJVneYqzxwsQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5s9glAvqphgJVneYqzxwsQ",
+      "id": "5s9glAvqphgJVneYqzxwsQ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Coffee Street (feat. Louis Mhlanga, Keith Jones, Jesus Diaz & Paul Van Wageningen)",
+      "popularity": 14,
+      "preview_url": "https://p.scdn.co/mp3-preview/f418c7ac744d0a8c243980c0b88b7f2c10aa9702?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5s9glAvqphgJVneYqzxwsQ"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+            "id": "5lFXWUhnMLnuubYAtgKKXa",
+            "name": "Andy Narell",
+            "type": "artist",
+            "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4NsEoWIWhSuKPx7yMqOR2x"
+        },
+        "href": "https://api.spotify.com/v1/albums/4NsEoWIWhSuKPx7yMqOR2x",
+        "id": "4NsEoWIWhSuKPx7yMqOR2x",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732dc091b32f2018e209e9a45b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022dc091b32f2018e209e9a45b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512dc091b32f2018e209e9a45b",
+            "width": 64
+          }
+        ],
+        "name": "We Kinda Music",
+        "release_date": "2017-09-29",
+        "release_date_precision": "day",
+        "total_tracks": 6,
+        "type": "album",
+        "uri": "spotify:album:4NsEoWIWhSuKPx7yMqOR2x"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Kmu8WMvlSJkjDdOB3I0Qq"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Kmu8WMvlSJkjDdOB3I0Qq",
+          "id": "3Kmu8WMvlSJkjDdOB3I0Qq",
+          "name": "Adriano Tenorio",
+          "type": "artist",
+          "uri": "spotify:artist:3Kmu8WMvlSJkjDdOB3I0Qq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6SZIlHbt9ycrGuzlIIcsQn"
+          },
+          "href": "https://api.spotify.com/v1/artists/6SZIlHbt9ycrGuzlIIcsQn",
+          "id": "6SZIlHbt9ycrGuzlIIcsQn",
+          "name": "Vinson McMurtery",
+          "type": "artist",
+          "uri": "spotify:artist:6SZIlHbt9ycrGuzlIIcsQn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 498253,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USCUE1700001"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/37k8ekKcZe0THzXe020l4t"
+      },
+      "href": "https://api.spotify.com/v1/tracks/37k8ekKcZe0THzXe020l4t",
+      "id": "37k8ekKcZe0THzXe020l4t",
+      "is_local": false,
+      "is_playable": true,
+      "name": "We Kinda Music (feat. Adriano Tenorio & Vinson McMurtery)",
+      "popularity": 13,
+      "preview_url": "https://p.scdn.co/mp3-preview/5b912ef26393ee74cf47d5c8744cebc121cf51ac?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:37k8ekKcZe0THzXe020l4t"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+            "id": "5lFXWUhnMLnuubYAtgKKXa",
+            "name": "Andy Narell",
+            "type": "artist",
+            "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6hw0CQmgdjO1cF836d3tA9"
+        },
+        "href": "https://api.spotify.com/v1/albums/6hw0CQmgdjO1cF836d3tA9",
+        "id": "6hw0CQmgdjO1cF836d3tA9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fcd01c20b5d470d347470bec",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fcd01c20b5d470d347470bec",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fcd01c20b5d470d347470bec",
+            "width": 64
+          }
+        ],
+        "name": "Slow Motion",
+        "release_date": "1985-02-01",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:6hw0CQmgdjO1cF836d3tA9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/21og01vigGgPGi1EPjcSON"
+          },
+          "href": "https://api.spotify.com/v1/artists/21og01vigGgPGi1EPjcSON",
+          "id": "21og01vigGgPGi1EPjcSON",
+          "name": "Steve Erquiaga",
+          "type": "artist",
+          "uri": "spotify:artist:21og01vigGgPGi1EPjcSON"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/10HOG3qITn9DaVxNdWz9y1"
+          },
+          "href": "https://api.spotify.com/v1/artists/10HOG3qITn9DaVxNdWz9y1",
+          "id": "10HOG3qITn9DaVxNdWz9y1",
+          "name": "Keith Jones",
+          "type": "artist",
+          "uri": "spotify:artist:10HOG3qITn9DaVxNdWz9y1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/307VFtATrDe1wEoMxsE67Y"
+          },
+          "href": "https://api.spotify.com/v1/artists/307VFtATrDe1wEoMxsE67Y",
+          "id": "307VFtATrDe1wEoMxsE67Y",
+          "name": "Kenneth Nash",
+          "type": "artist",
+          "uri": "spotify:artist:307VFtATrDe1wEoMxsE67Y"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7IukhlE0o6NJnQBvRC5i4R"
+          },
+          "href": "https://api.spotify.com/v1/artists/7IukhlE0o6NJnQBvRC5i4R",
+          "id": "7IukhlE0o6NJnQBvRC5i4R",
+          "name": "William Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:7IukhlE0o6NJnQBvRC5i4R"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 377173,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "TCACF1595709"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0dDyKNYaAF0FIpQz4c3BRV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0dDyKNYaAF0FIpQz4c3BRV",
+      "id": "0dDyKNYaAF0FIpQz4c3BRV",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Two Tone Shoes (feat. Steve Erquiaga, Keith Jones, Kenneth Nash & William Kennedy)",
+      "popularity": 13,
+      "preview_url": "https://p.scdn.co/mp3-preview/0f7dba84b1f2304a9ac0231e73bb89b2f0bcd983?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0dDyKNYaAF0FIpQz4c3BRV"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+            "id": "5lFXWUhnMLnuubYAtgKKXa",
+            "name": "Andy Narell",
+            "type": "artist",
+            "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/32QV3NQiq0xmWlYxBH75e1"
+        },
+        "href": "https://api.spotify.com/v1/albums/32QV3NQiq0xmWlYxBH75e1",
+        "id": "32QV3NQiq0xmWlYxBH75e1",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738ff0f3bf79d557f7f843876d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028ff0f3bf79d557f7f843876d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518ff0f3bf79d557f7f843876d",
+            "width": 64
+          }
+        ],
+        "name": "Dis 1. 4. Raf (feat. Janysett MC Pherson)",
+        "release_date": "2016-07-21",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:32QV3NQiq0xmWlYxBH75e1"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Q8P63cpclSdWOmcMXHja5"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Q8P63cpclSdWOmcMXHja5",
+          "id": "2Q8P63cpclSdWOmcMXHja5",
+          "name": "Thierry Fanfant",
+          "type": "artist",
+          "uri": "spotify:artist:2Q8P63cpclSdWOmcMXHja5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/104sCCWTTZgFAc6U7TosCe"
+          },
+          "href": "https://api.spotify.com/v1/artists/104sCCWTTZgFAc6U7TosCe",
+          "id": "104sCCWTTZgFAc6U7TosCe",
+          "name": "Inor Sotolongo",
+          "type": "artist",
+          "uri": "spotify:artist:104sCCWTTZgFAc6U7TosCe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2QtRzMAvqrAOEt463jB8Z3"
+          },
+          "href": "https://api.spotify.com/v1/artists/2QtRzMAvqrAOEt463jB8Z3",
+          "id": "2QtRzMAvqrAOEt463jB8Z3",
+          "name": "Grégory Louis",
+          "type": "artist",
+          "uri": "spotify:artist:2QtRzMAvqrAOEt463jB8Z3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3gyZciTN3qDqv4DDoRAU29"
+          },
+          "href": "https://api.spotify.com/v1/artists/3gyZciTN3qDqv4DDoRAU29",
+          "id": "3gyZciTN3qDqv4DDoRAU29",
+          "name": "Janysett McPherson",
+          "type": "artist",
+          "uri": "spotify:artist:3gyZciTN3qDqv4DDoRAU29"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 513173,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USCUE1600004"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7MbLrOhFqUwEWKKe6rX5rT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7MbLrOhFqUwEWKKe6rX5rT",
+      "id": "7MbLrOhFqUwEWKKe6rX5rT",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Dee Mwa Wee (feat. Thierry Fanfant, Inor Sotolongo, Gregory Louis & Janysett MC Pherson)",
+      "popularity": 11,
+      "preview_url": "https://p.scdn.co/mp3-preview/aa79d61643370e5ae6350a8f004c87ac0db8c904?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:7MbLrOhFqUwEWKKe6rX5rT"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+            "id": "5lFXWUhnMLnuubYAtgKKXa",
+            "name": "Andy Narell",
+            "type": "artist",
+            "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4NsEoWIWhSuKPx7yMqOR2x"
+        },
+        "href": "https://api.spotify.com/v1/albums/4NsEoWIWhSuKPx7yMqOR2x",
+        "id": "4NsEoWIWhSuKPx7yMqOR2x",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732dc091b32f2018e209e9a45b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022dc091b32f2018e209e9a45b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512dc091b32f2018e209e9a45b",
+            "width": 64
+          }
+        ],
+        "name": "We Kinda Music",
+        "release_date": "2017-09-29",
+        "release_date_precision": "day",
+        "total_tracks": 6,
+        "type": "album",
+        "uri": "spotify:album:4NsEoWIWhSuKPx7yMqOR2x"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Kmu8WMvlSJkjDdOB3I0Qq"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Kmu8WMvlSJkjDdOB3I0Qq",
+          "id": "3Kmu8WMvlSJkjDdOB3I0Qq",
+          "name": "Adriano Tenorio",
+          "type": "artist",
+          "uri": "spotify:artist:3Kmu8WMvlSJkjDdOB3I0Qq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6SZIlHbt9ycrGuzlIIcsQn"
+          },
+          "href": "https://api.spotify.com/v1/artists/6SZIlHbt9ycrGuzlIIcsQn",
+          "id": "6SZIlHbt9ycrGuzlIIcsQn",
+          "name": "Vinson McMurtery",
+          "type": "artist",
+          "uri": "spotify:artist:6SZIlHbt9ycrGuzlIIcsQn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 545426,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USCUE1700006"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1rGg2BSubYXjkF5BHpwSNn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1rGg2BSubYXjkF5BHpwSNn",
+      "id": "1rGg2BSubYXjkF5BHpwSNn",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Dis 1.4. Raf (feat. Adriano Tenorio & Vinson McMurtery)",
+      "popularity": 10,
+      "preview_url": "https://p.scdn.co/mp3-preview/45d1fe76d5f80f39981beb8b0dc553a04351f01f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1rGg2BSubYXjkF5BHpwSNn"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+            "id": "5lFXWUhnMLnuubYAtgKKXa",
+            "name": "Andy Narell",
+            "type": "artist",
+            "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4uAk5dkfA8AMfyGqmX9MqZ"
+        },
+        "href": "https://api.spotify.com/v1/albums/4uAk5dkfA8AMfyGqmX9MqZ",
+        "id": "4uAk5dkfA8AMfyGqmX9MqZ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273666ce3f72ac06d3e1a933130",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02666ce3f72ac06d3e1a933130",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851666ce3f72ac06d3e1a933130",
+            "width": 64
+          }
+        ],
+        "name": "The Long Time Band",
+        "release_date": "1995-05-08",
+        "release_date_precision": "day",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:4uAk5dkfA8AMfyGqmX9MqZ"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 349533,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USWH19501104"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Kv5q1S1yye5XGPizCTtnp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Kv5q1S1yye5XGPizCTtnp",
+      "id": "5Kv5q1S1yye5XGPizCTtnp",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Canboulay",
+      "popularity": 10,
+      "preview_url": "https://p.scdn.co/mp3-preview/757ef585a33b9351300ebdeb57d37dcd2b3ae4e9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5Kv5q1S1yye5XGPizCTtnp"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+            "id": "5aIqB5nVVvmFsvSdExz408",
+            "name": "Johann Sebastian Bach",
+            "type": "artist",
+            "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5iBVvSC8BcZAbgKaKRLAeo"
+        },
+        "href": "https://api.spotify.com/v1/albums/5iBVvSC8BcZAbgKaKRLAeo",
+        "id": "5iBVvSC8BcZAbgKaKRLAeo",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a0244951c5b09f770d7401b7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a0244951c5b09f770d7401b7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a0244951c5b09f770d7401b7",
+            "width": 64
+          }
+        ],
+        "name": "The Bach Variations",
+        "release_date": "1994",
+        "release_date_precision": "year",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:5iBVvSC8BcZAbgKaKRLAeo"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          },
+          "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+          "id": "5aIqB5nVVvmFsvSdExz408",
+          "name": "Johann Sebastian Bach",
+          "type": "artist",
+          "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210466,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USWH19401215"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7Fo2x8rfqyAZupBOvcOy2d"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7Fo2x8rfqyAZupBOvcOy2d",
+      "id": "7Fo2x8rfqyAZupBOvcOy2d",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Jesu, Joy Of Man's Desiring",
+      "popularity": 9,
+      "preview_url": "https://p.scdn.co/mp3-preview/a44465c7c5fc600eff74027cc235f6d3e404c391?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:7Fo2x8rfqyAZupBOvcOy2d"
+    }
+  ]
+}

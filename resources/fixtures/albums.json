@@ -1,0 +1,450 @@
+{
+  "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa/albums?offset=0&limit=10&include_groups=album,single,compilation,appears_on&market=US",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4NsEoWIWhSuKPx7yMqOR2x"
+      },
+      "href": "https://api.spotify.com/v1/albums/4NsEoWIWhSuKPx7yMqOR2x",
+      "id": "4NsEoWIWhSuKPx7yMqOR2x",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732dc091b32f2018e209e9a45b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022dc091b32f2018e209e9a45b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512dc091b32f2018e209e9a45b",
+          "width": 64
+        }
+      ],
+      "name": "We Kinda Music",
+      "release_date": "2017-09-29",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:4NsEoWIWhSuKPx7yMqOR2x"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/32QV3NQiq0xmWlYxBH75e1"
+      },
+      "href": "https://api.spotify.com/v1/albums/32QV3NQiq0xmWlYxBH75e1",
+      "id": "32QV3NQiq0xmWlYxBH75e1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ff0f3bf79d557f7f843876d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028ff0f3bf79d557f7f843876d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518ff0f3bf79d557f7f843876d",
+          "width": 64
+        }
+      ],
+      "name": "Dis 1. 4. Raf (feat. Janysett MC Pherson)",
+      "release_date": "2016-07-21",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:32QV3NQiq0xmWlYxBH75e1"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0r1htAdsxVX9VUTgUWQ00W"
+      },
+      "href": "https://api.spotify.com/v1/albums/0r1htAdsxVX9VUTgUWQ00W",
+      "id": "0r1htAdsxVX9VUTgUWQ00W",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273389c33b2cb54f0fb4c2954a3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02389c33b2cb54f0fb4c2954a3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851389c33b2cb54f0fb4c2954a3",
+          "width": 64
+        }
+      ],
+      "name": "Hidden Treasure",
+      "release_date": "2016-07-08",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:0r1htAdsxVX9VUTgUWQ00W"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/40uHpAqGI9qqkm1KUzlNGO"
+      },
+      "href": "https://api.spotify.com/v1/albums/40uHpAqGI9qqkm1KUzlNGO",
+      "id": "40uHpAqGI9qqkm1KUzlNGO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738150b9f7c17cc6fc75c674ff",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028150b9f7c17cc6fc75c674ff",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518150b9f7c17cc6fc75c674ff",
+          "width": 64
+        }
+      ],
+      "name": "Hidden Treasure",
+      "release_date": "2007-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:40uHpAqGI9qqkm1KUzlNGO"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4WW5MAEBCTMHAGTbteLsAD"
+      },
+      "href": "https://api.spotify.com/v1/albums/4WW5MAEBCTMHAGTbteLsAD",
+      "id": "4WW5MAEBCTMHAGTbteLsAD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27354471411ddc7c0ce7df06e1d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0254471411ddc7c0ce7df06e1d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485154471411ddc7c0ce7df06e1d",
+          "width": 64
+        }
+      ],
+      "name": "Tatoom",
+      "release_date": "2006-04-20",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:4WW5MAEBCTMHAGTbteLsAD"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/29yagsmgDiuqsv7nykC4Os"
+      },
+      "href": "https://api.spotify.com/v1/albums/29yagsmgDiuqsv7nykC4Os",
+      "id": "29yagsmgDiuqsv7nykC4Os",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fb34f6fe0f090d35108bc097",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fb34f6fe0f090d35108bc097",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fb34f6fe0f090d35108bc097",
+          "width": 64
+        }
+      ],
+      "name": "The Passage",
+      "release_date": "2004-04-10",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:29yagsmgDiuqsv7nykC4Os"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6TmrhfqJFH3T3gj1l3Uzcj"
+      },
+      "href": "https://api.spotify.com/v1/albums/6TmrhfqJFH3T3gj1l3Uzcj",
+      "id": "6TmrhfqJFH3T3gj1l3Uzcj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27374ee8779569ac647d95f10f2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0274ee8779569ac647d95f10f2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485174ee8779569ac647d95f10f2",
+          "width": 64
+        }
+      ],
+      "name": "Live in South Africa",
+      "release_date": "2001-02-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6TmrhfqJFH3T3gj1l3Uzcj"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1TPJPaZAC0P0edGUFKWpM1"
+      },
+      "href": "https://api.spotify.com/v1/albums/1TPJPaZAC0P0edGUFKWpM1",
+      "id": "1TPJPaZAC0P0edGUFKWpM1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e93a9f8dfea63d27a7728556",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e93a9f8dfea63d27a7728556",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e93a9f8dfea63d27a7728556",
+          "width": 64
+        }
+      ],
+      "name": "Fire in the Engine Room",
+      "release_date": "2000-02-01",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:1TPJPaZAC0P0edGUFKWpM1"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5pi3k06mAZRdaFlDf49IXs"
+      },
+      "href": "https://api.spotify.com/v1/albums/5pi3k06mAZRdaFlDf49IXs",
+      "id": "5pi3k06mAZRdaFlDf49IXs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27325acb1835d17f7abcc761128",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0225acb1835d17f7abcc761128",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485125acb1835d17f7abcc761128",
+          "width": 64
+        }
+      ],
+      "name": "Behind the Bridge",
+      "release_date": "1998-02-01",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:5pi3k06mAZRdaFlDf49IXs"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4uAk5dkfA8AMfyGqmX9MqZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/4uAk5dkfA8AMfyGqmX9MqZ",
+      "id": "4uAk5dkfA8AMfyGqmX9MqZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273666ce3f72ac06d3e1a933130",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02666ce3f72ac06d3e1a933130",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851666ce3f72ac06d3e1a933130",
+          "width": 64
+        }
+      ],
+      "name": "The Long Time Band",
+      "release_date": "1995-05-08",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:4uAk5dkfA8AMfyGqmX9MqZ"
+    }
+  ],
+  "limit": 10,
+  "next": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa/albums?offset=10&limit=10&include_groups=album,single,compilation,appears_on&market=US",
+  "offset": 0,
+  "previous": null,
+  "total": 30
+}

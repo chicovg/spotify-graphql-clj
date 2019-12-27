@@ -1,0 +1,777 @@
+{
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0xJExpmKrz0ZtdlDemVzPk"
+      },
+      "followers": {
+        "href": null,
+        "total": 4807
+      },
+      "genres": [
+        "latin jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0xJExpmKrz0ZtdlDemVzPk",
+      "id": "0xJExpmKrz0ZtdlDemVzPk",
+      "images": [
+        {
+          "height": 690,
+          "url": "https://i.scdn.co/image/59cf37411cfb47dffc0ac532b6c35dcc0a99c8ca",
+          "width": 1000
+        },
+        {
+          "height": 442,
+          "url": "https://i.scdn.co/image/e69c57ae1c84e15ac99dd70f753dea3f3f647b99",
+          "width": 640
+        },
+        {
+          "height": 138,
+          "url": "https://i.scdn.co/image/2fcae48d0107a46cf62855bb3df2fb0e3da1f957",
+          "width": 200
+        },
+        {
+          "height": 44,
+          "url": "https://i.scdn.co/image/137992d0f1acce44c0bde3c911d8d567b344ed51",
+          "width": 64
+        }
+      ],
+      "name": "Dave Valentin",
+      "popularity": 28,
+      "type": "artist",
+      "uri": "spotify:artist:0xJExpmKrz0ZtdlDemVzPk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 2972
+      },
+      "genres": [
+        "latin jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3EXBBqXojqnitE9lPX0uUZ",
+      "id": "3EXBBqXojqnitE9lPX0uUZ",
+      "images": [
+        {
+          "height": 1078,
+          "url": "https://i.scdn.co/image/461d2b8a118c3ff851aaf07f5b402597134ef601",
+          "width": 1000
+        },
+        {
+          "height": 690,
+          "url": "https://i.scdn.co/image/5c26ee446ca02fbda6337a2359bcd0dc66943af5",
+          "width": 640
+        },
+        {
+          "height": 216,
+          "url": "https://i.scdn.co/image/97e941a1a664b4119e94712f84bb912c9879d8f8",
+          "width": 200
+        },
+        {
+          "height": 69,
+          "url": "https://i.scdn.co/image/d42201d19195ff3dfb316a86031f13788a48335b",
+          "width": 64
+        }
+      ],
+      "name": "Pete Escovedo",
+      "popularity": 32,
+      "type": "artist",
+      "uri": "spotify:artist:3EXBBqXojqnitE9lPX0uUZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/25z14Qw0e8uN0dIaWVe2Mk"
+      },
+      "followers": {
+        "href": null,
+        "total": 3753
+      },
+      "genres": [
+        "smooth jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/25z14Qw0e8uN0dIaWVe2Mk",
+      "id": "25z14Qw0e8uN0dIaWVe2Mk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/398aeedb219a61b06e8628a2f72cc993871d55df",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/90f57c3a89cab8bf796ccd278bc20b318e050c85",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/d32016dc5837941de2acd1cd7ce7c1eaf95d50eb",
+          "width": 160
+        }
+      ],
+      "name": "Nestor Torres",
+      "popularity": 39,
+      "type": "artist",
+      "uri": "spotify:artist:25z14Qw0e8uN0dIaWVe2Mk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+      },
+      "followers": {
+        "href": null,
+        "total": 56478
+      },
+      "genres": [
+        "jazz funk",
+        "jazz fusion",
+        "jazz piano",
+        "smooth jazz",
+        "vocal jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4H2b90USTVSstPktwUsDZE",
+      "id": "4H2b90USTVSstPktwUsDZE",
+      "images": [
+        {
+          "height": 1443,
+          "url": "https://i.scdn.co/image/9800408dbabe239a0f265f4ab3abbf391cb904a6",
+          "width": 1000
+        },
+        {
+          "height": 923,
+          "url": "https://i.scdn.co/image/68a25da483937c2f15a7f68f54e2446460432d14",
+          "width": 640
+        },
+        {
+          "height": 289,
+          "url": "https://i.scdn.co/image/93ffd420e88a25b9835b033d6fa90cab1bf48e22",
+          "width": 200
+        },
+        {
+          "height": 92,
+          "url": "https://i.scdn.co/image/beb62ac52f0e059b55367392e2a585dc2b38cde2",
+          "width": 64
+        }
+      ],
+      "name": "Joe Sample",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:4H2b90USTVSstPktwUsDZE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
+      },
+      "followers": {
+        "href": null,
+        "total": 50475
+      },
+      "genres": [
+        "jazz fusion",
+        "smooth jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1OLWM7nUNcTjZ9ct4DEPZu",
+      "id": "1OLWM7nUNcTjZ9ct4DEPZu",
+      "images": [
+        {
+          "height": 666,
+          "url": "https://i.scdn.co/image/efc14b699f9772b6025a9b2055a6879b2037ed56",
+          "width": 1000
+        },
+        {
+          "height": 426,
+          "url": "https://i.scdn.co/image/5812e5a75e90704edb822ad3f50f08ea39b36886",
+          "width": 639
+        },
+        {
+          "height": 133,
+          "url": "https://i.scdn.co/image/13b5bd2285b1cd044877891b9210a926d5104c84",
+          "width": 200
+        },
+        {
+          "height": 43,
+          "url": "https://i.scdn.co/image/0c43d28d02450aea5d9b012d110111f7b7a79433",
+          "width": 64
+        }
+      ],
+      "name": "David Benoit",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:1OLWM7nUNcTjZ9ct4DEPZu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+      },
+      "followers": {
+        "href": null,
+        "total": 40301
+      },
+      "genres": [
+        "jazz funk",
+        "jazz fusion",
+        "smooth jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1SaH16LT1AWVsBU8AKY4HN",
+      "id": "1SaH16LT1AWVsBU8AKY4HN",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/e16abdd2881e7e5e0b9a7a1f978eee6dd649def1",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f5defbc8e6855f33eeaa8cea4e9a4080129ab5ab",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/34a20c17319f7cc876d20b02e71e2552640a5ed8",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3511083c158145383eb1313adf92028039c43820",
+          "width": 64
+        }
+      ],
+      "name": "Jeff Lorber",
+      "popularity": 46,
+      "type": "artist",
+      "uri": "spotify:artist:1SaH16LT1AWVsBU8AKY4HN"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD"
+      },
+      "followers": {
+        "href": null,
+        "total": 84560
+      },
+      "genres": [
+        "jazz funk",
+        "jazz fusion",
+        "progressive jazz fusion",
+        "smooth jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1Be36RHAlqJpfUt3tsmUQD",
+      "id": "1Be36RHAlqJpfUt3tsmUQD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6dc18b2eeed3ef659d287b7d3fb03f1bad940044",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/503801e8cdf95eaa5e9067795f5875dc4349c2e0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/3561237a6469577955c288a190ac5bbe82b277ec",
+          "width": 160
+        }
+      ],
+      "name": "Spyro Gyra",
+      "popularity": 47,
+      "type": "artist",
+      "uri": "spotify:artist:1Be36RHAlqJpfUt3tsmUQD"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
+      },
+      "followers": {
+        "href": null,
+        "total": 78465
+      },
+      "genres": [
+        "jazz funk",
+        "jazz fusion",
+        "jazz saxophone",
+        "smooth jazz",
+        "smooth saxophone"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7vNcTk9TgKF0qDsS87nWGE",
+      "id": "7vNcTk9TgKF0qDsS87nWGE",
+      "images": [
+        {
+          "height": 1500,
+          "url": "https://i.scdn.co/image/1046bb9fde4283e3f6333413a9b9b44ac08d339e",
+          "width": 1000
+        },
+        {
+          "height": 960,
+          "url": "https://i.scdn.co/image/3325b2401e51ffb970f137a0c6ca6a6306473f8b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab58853585f8268f4af48a195452aba5a17a848a",
+          "width": 200
+        },
+        {
+          "height": 96,
+          "url": "https://i.scdn.co/image/47d6531ba0371548cdda568977a1ccfd8369a84f",
+          "width": 64
+        }
+      ],
+      "name": "David Sanborn",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:7vNcTk9TgKF0qDsS87nWGE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
+      },
+      "followers": {
+        "href": null,
+        "total": 14279
+      },
+      "genres": [
+        "smooth jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6NVwMiEWAjCHnKWPx9h8WO",
+      "id": "6NVwMiEWAjCHnKWPx9h8WO",
+      "images": [
+        {
+          "height": 636,
+          "url": "https://i.scdn.co/image/6eeccc0b11e31ec0e65db354d25d6e649592cdc4",
+          "width": 640
+        },
+        {
+          "height": 298,
+          "url": "https://i.scdn.co/image/15e5e0aac20afd36301d5c06e6f1602ebd4130e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/eae414a05740dab05d173f0f0aa87897484d7afc",
+          "width": 64
+        }
+      ],
+      "name": "Russ Freeman",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:6NVwMiEWAjCHnKWPx9h8WO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ"
+      },
+      "followers": {
+        "href": null,
+        "total": 1994
+      },
+      "genres": [
+        "smooth jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/76eaAxXOF5UhLXASB8UiQJ",
+      "id": "76eaAxXOF5UhLXASB8UiQJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3acfa2f5b15a1aec880c5b7d6b0472139e7bdb38",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/eef95389155a6b280ec5cdb2802b15d105c8df5b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/b4f3d7f3df3983264ce4446253b55bf8529ddd44",
+          "width": 160
+        }
+      ],
+      "name": "Philippe Saisse",
+      "popularity": 30,
+      "type": "artist",
+      "uri": "spotify:artist:76eaAxXOF5UhLXASB8UiQJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On"
+      },
+      "followers": {
+        "href": null,
+        "total": 6727
+      },
+      "genres": [
+        "smooth jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/05uCfJ1rcdJWwsVUKDg9On",
+      "id": "05uCfJ1rcdJWwsVUKDg9On",
+      "images": [
+        {
+          "height": 600,
+          "url": "https://i.scdn.co/image/5aa18ecf9f88840d39b644a623c5e10d6e051721",
+          "width": 464
+        },
+        {
+          "height": 259,
+          "url": "https://i.scdn.co/image/206bb45cc295fa0b27505c8f61d89b6a1a1867dd",
+          "width": 200
+        },
+        {
+          "height": 83,
+          "url": "https://i.scdn.co/image/56e51da279507bb002798b9b9a58d9e92319295d",
+          "width": 64
+        }
+      ],
+      "name": "Bobby Lyle",
+      "popularity": 31,
+      "type": "artist",
+      "uri": "spotify:artist:05uCfJ1rcdJWwsVUKDg9On"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
+      },
+      "followers": {
+        "href": null,
+        "total": 84832
+      },
+      "genres": [
+        "jazz funk",
+        "jazz fusion",
+        "smooth jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3PcMolaGsh2nryvBR2sQOS",
+      "id": "3PcMolaGsh2nryvBR2sQOS",
+      "images": [
+        {
+          "height": 750,
+          "url": "https://i.scdn.co/image/d27895d51c1e9af69438207546ffddfeca34d4f7",
+          "width": 1000
+        },
+        {
+          "height": 480,
+          "url": "https://i.scdn.co/image/0c8712fc3f3b8cdcd46b63b1867053d736dcc4d0",
+          "width": 640
+        },
+        {
+          "height": 150,
+          "url": "https://i.scdn.co/image/95040a8455a2fa99b232c4e98212bebe935ded9d",
+          "width": 200
+        },
+        {
+          "height": 48,
+          "url": "https://i.scdn.co/image/ce7d0616095c17713a8cfaff942c5d4158c6e23b",
+          "width": 64
+        }
+      ],
+      "name": "Fourplay",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:3PcMolaGsh2nryvBR2sQOS"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR"
+      },
+      "followers": {
+        "href": null,
+        "total": 2367
+      },
+      "genres": [
+        "smooth jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5nmTcw6WV6BzDvguH2iPXR",
+      "id": "5nmTcw6WV6BzDvguH2iPXR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27316c5e2d895178ef2d594565c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0216c5e2d895178ef2d594565c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485116c5e2d895178ef2d594565c",
+          "width": 64
+        }
+      ],
+      "name": "Torcuato Mariano",
+      "popularity": 31,
+      "type": "artist",
+      "uri": "spotify:artist:5nmTcw6WV6BzDvguH2iPXR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1IR6tgWksU9wzw0KsH7kmN"
+      },
+      "followers": {
+        "href": null,
+        "total": 1906
+      },
+      "genres": [
+        "smooth jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1IR6tgWksU9wzw0KsH7kmN",
+      "id": "1IR6tgWksU9wzw0KsH7kmN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27317520e260973b705d40d9cd2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0217520e260973b705d40d9cd2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485117520e260973b705d40d9cd2",
+          "width": 64
+        }
+      ],
+      "name": "Ray Obiedo",
+      "popularity": 26,
+      "type": "artist",
+      "uri": "spotify:artist:1IR6tgWksU9wzw0KsH7kmN"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5xUKGtiP4KvMEJWSQ72SyZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 9345
+      },
+      "genres": [
+        "progressive jazz fusion",
+        "smooth jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5xUKGtiP4KvMEJWSQ72SyZ",
+      "id": "5xUKGtiP4KvMEJWSQ72SyZ",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/683a717e0ffacaab2f7402d65215ae611f42c0fe",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/2a4864db0204db1709cb2f4fa648e82970558532",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/b2a4bec94f2df31763b2d4eb3c8c8da3732ae05b",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/31087be3a84a19454fef848ef4e8d6d91bf8887b",
+          "width": 64
+        }
+      ],
+      "name": "Special EFX",
+      "popularity": 39,
+      "type": "artist",
+      "uri": "spotify:artist:5xUKGtiP4KvMEJWSQ72SyZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+      },
+      "followers": {
+        "href": null,
+        "total": 87021
+      },
+      "genres": [
+        "jazz funk",
+        "jazz fusion",
+        "jazz guitar",
+        "smooth jazz",
+        "yacht rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1nDqTUspmq8IXhcEZT93iq",
+      "id": "1nDqTUspmq8IXhcEZT93iq",
+      "images": [
+        {
+          "height": 532,
+          "url": "https://i.scdn.co/image/c92db7e0567f5e7cc5902b9b60e76a2e068ade18",
+          "width": 800
+        },
+        {
+          "height": 426,
+          "url": "https://i.scdn.co/image/f84350712227df74ebe5c2501322876b2e593d35",
+          "width": 640
+        },
+        {
+          "height": 133,
+          "url": "https://i.scdn.co/image/08de4bbb36e702e0bc1e40ab74132cd156f9cfc2",
+          "width": 200
+        },
+        {
+          "height": 43,
+          "url": "https://i.scdn.co/image/e4671c4b09eaa1e2c47405a0dd14fa2c70e7a948",
+          "width": 64
+        }
+      ],
+      "name": "Lee Ritenour",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:1nDqTUspmq8IXhcEZT93iq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+      },
+      "followers": {
+        "href": null,
+        "total": 10618
+      },
+      "genres": [
+        "smooth jazz",
+        "smooth saxophone"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5lFAGKb5mvPQX9on6lKC88",
+      "id": "5lFAGKb5mvPQX9on6lKC88",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c1c12049019fd20207499fc82af7dd8e142c0791",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ccd2293d97e0ae8df069f080679d5aec368afd0c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ccf89b867aace30c1a278518d83fc8e483e45d58",
+          "width": 160
+        }
+      ],
+      "name": "Nelson Rangell",
+      "popularity": 40,
+      "type": "artist",
+      "uri": "spotify:artist:5lFAGKb5mvPQX9on6lKC88"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/57EAEbnYbr1PFzadw9Zvgi"
+      },
+      "followers": {
+        "href": null,
+        "total": 17334
+      },
+      "genres": [
+        "smooth jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/57EAEbnYbr1PFzadw9Zvgi",
+      "id": "57EAEbnYbr1PFzadw9Zvgi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e17c27d27425858d3c10a12c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e17c27d27425858d3c10a12c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e17c27d27425858d3c10a12c",
+          "width": 64
+        }
+      ],
+      "name": "Fattburger",
+      "popularity": 41,
+      "type": "artist",
+      "uri": "spotify:artist:57EAEbnYbr1PFzadw9Zvgi"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+      },
+      "followers": {
+        "href": null,
+        "total": 35025
+      },
+      "genres": [
+        "smooth jazz",
+        "smooth saxophone"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6eLlZ44VYhHnvuRet0qTuH",
+      "id": "6eLlZ44VYhHnvuRet0qTuH",
+      "images": [
+        {
+          "height": 400,
+          "url": "https://i.scdn.co/image/5bb88f181123f69243af8f99da61081c89cfd8cd",
+          "width": 600
+        },
+        {
+          "height": 133,
+          "url": "https://i.scdn.co/image/d0237d43e84dc591b9029ff01607368a21a6b44d",
+          "width": 200
+        },
+        {
+          "height": 43,
+          "url": "https://i.scdn.co/image/e9d4ba0be32958dc280c9e71142f114408655683",
+          "width": 64
+        }
+      ],
+      "name": "Richard Elliot",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify:artist:6eLlZ44VYhHnvuRet0qTuH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
+      },
+      "followers": {
+        "href": null,
+        "total": 4925
+      },
+      "genres": [
+        "smooth jazz"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0TknnwW9imlXjnjxfHcvFd",
+      "id": "0TknnwW9imlXjnjxfHcvFd",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/f72597e980db4a7591fe0ed1c9a0466b39f37f03",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d8c2698445a2c3c97fb6d675e4f3174c61279bb0",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/6c4e4ac7d758043f62b9e8529862b7abe2db85c4",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ca59b701ab2ff83df519d11d41449260aa1eb993",
+          "width": 64
+        }
+      ],
+      "name": "Dan Siegel",
+      "popularity": 36,
+      "type": "artist",
+      "uri": "spotify:artist:0TknnwW9imlXjnjxfHcvFd"
+    }
+  ]
+}

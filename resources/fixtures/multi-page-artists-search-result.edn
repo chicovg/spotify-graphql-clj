@@ -1,0 +1,313 @@
+{
+  :artists {
+    :href "https://api.spotify.com/v1/search?query=Muse&type=artist&offset=5&limit=10"
+    :items [
+      {
+        :external_urls {
+          :spotify "https://open.spotify.com/artist/2nYRDHDPqrclxCKNOCFY2j"
+        }
+        :followers {
+          :href nil
+          :total 3441
+        }
+        :genres []
+        :href "https://api.spotify.com/v1/artists/2nYRDHDPqrclxCKNOCFY2j"
+        :id "2nYRDHDPqrclxCKNOCFY2j"
+        :images [
+          {
+            :height 640
+            :url "https://i.scdn.co/image/0ca8d7ae75313ea5cfac1abbb31a2333b4a58a69"
+            :width 640
+          }
+          {
+            :height 320
+            :url "https://i.scdn.co/image/8d962f49bc3441072811a982ab900517c9bdf374"
+            :width 320
+          }
+          {
+            :height 160
+            :url "https://i.scdn.co/image/9baaccc4812a187202e7ebdbc300c37997cc1373"
+            :width 160
+          }
+        ]
+        :name "Pixy Muse"
+        :popularity 16
+        :type "artist"
+        :uri "spotify:artist:2nYRDHDPqrclxCKNOCFY2j"
+      }
+      {
+        :external_urls {
+          :spotify "https://open.spotify.com/artist/0LjVOGAofVR8GpUkRODKhA"
+        }
+        :followers {
+          :href nil
+          :total 1633
+        }
+        :genres []
+        :href "https://api.spotify.com/v1/artists/0LjVOGAofVR8GpUkRODKhA"
+        :id "0LjVOGAofVR8GpUkRODKhA"
+        :images [
+          {
+            :height 640
+            :url "https://i.scdn.co/image/ab67616d0000b2734d8daf2479026d770d0e5f1e"
+            :width 640
+          }
+          {
+            :height 300
+            :url "https://i.scdn.co/image/ab67616d00001e024d8daf2479026d770d0e5f1e"
+            :width 300
+          }
+          {
+            :height 64
+            :url "https://i.scdn.co/image/ab67616d000048514d8daf2479026d770d0e5f1e"
+            :width 64
+          }
+        ]
+        :name "Sky Muse"
+        :popularity 22
+        :type "artist"
+        :uri "spotify:artist:0LjVOGAofVR8GpUkRODKhA"
+      }
+      {
+        :external_urls {
+          :spotify "https://open.spotify.com/artist/15qpUkIDVVWsb60MTzCVsJ"
+        }
+        :followers {
+          :href nil
+          :total 252
+        }
+        :genres []
+        :href "https://api.spotify.com/v1/artists/15qpUkIDVVWsb60MTzCVsJ"
+        :id "15qpUkIDVVWsb60MTzCVsJ"
+        :images [
+          {
+            :height 640
+            :url "https://i.scdn.co/image/ab67616d0000b27356b629c85dae601593c66784"
+            :width 640
+          }
+          {
+            :height 300
+            :url "https://i.scdn.co/image/ab67616d00001e0256b629c85dae601593c66784"
+            :width 300
+          }
+          {
+            :height 64
+            :url "https://i.scdn.co/image/ab67616d0000485156b629c85dae601593c66784"
+            :width 64
+          }
+        ]
+        :name "Clip Muse"
+        :popularity 25
+        :type "artist"
+        :uri "spotify:artist:15qpUkIDVVWsb60MTzCVsJ"
+      }
+      {
+        :external_urls {
+          :spotify "https://open.spotify.com/artist/4EieLdBUvmICuAO5n8uELW"
+        }
+        :followers {
+          :href nil
+          :total 4
+        }
+        :genres []
+        :href "https://api.spotify.com/v1/artists/4EieLdBUvmICuAO5n8uELW"
+        :id "4EieLdBUvmICuAO5n8uELW"
+        :images []
+        :name "Sleeping Muse"
+        :popularity 27
+        :type "artist"
+        :uri "spotify:artist:4EieLdBUvmICuAO5n8uELW"
+      }
+      {
+        :external_urls {
+          :spotify "https://open.spotify.com/artist/0EcCExwuVReDp8Y86sLXUo"
+        }
+        :followers {
+          :href nil
+          :total 132
+        }
+        :genres []
+        :href "https://api.spotify.com/v1/artists/0EcCExwuVReDp8Y86sLXUo"
+        :id "0EcCExwuVReDp8Y86sLXUo"
+        :images [
+          {
+            :height 640
+            :url "https://i.scdn.co/image/fef4944016086c9f0afb7ee943ab0a0d746b30e7"
+            :width 640
+          }
+          {
+            :height 320
+            :url "https://i.scdn.co/image/39d74c5be6e3e929bdca315b2a4c60fc6c581487"
+            :width 320
+          }
+          {
+            :height 160
+            :url "https://i.scdn.co/image/ae04510bb2b9493375de9e3748651e4574de4084"
+            :width 160
+          }
+        ]
+        :name "Charlee Muse"
+        :popularity 21
+        :type "artist"
+        :uri "spotify:artist:0EcCExwuVReDp8Y86sLXUo"
+      }
+      {
+        :external_urls {
+          :spotify "https://open.spotify.com/artist/3QmSB7TUS59WiHAHxPRp6F"
+        }
+        :followers {
+          :href nil
+          :total 50
+        }
+        :genres []
+        :href "https://api.spotify.com/v1/artists/3QmSB7TUS59WiHAHxPRp6F"
+        :id "3QmSB7TUS59WiHAHxPRp6F"
+        :images [
+          {
+            :height 640
+            :url "https://i.scdn.co/image/bc4112f0edec1344306f78c2f7fc6bd900fe8b3f"
+            :width 640
+          }
+          {
+            :height 320
+            :url "https://i.scdn.co/image/25e2d05ac25947efdca0627cd55eba352c342090"
+            :width 320
+          }
+          {
+            :height 160
+            :url "https://i.scdn.co/image/30c2e817711e83206b4e3faa9a511e9bdbd4e592"
+            :width 160
+          }
+        ]
+        :name "Will Muse"
+        :popularity 21
+        :type "artist"
+        :uri "spotify:artist:3QmSB7TUS59WiHAHxPRp6F"
+      }
+      {
+        :external_urls {
+          :spotify "https://open.spotify.com/artist/3uIGREwbP57eNOtcol8yrC"
+        }
+        :followers {
+          :href nil
+          :total 403
+        }
+        :genres [
+          "harp"
+          "string folk"
+        ]
+        :href "https://api.spotify.com/v1/artists/3uIGREwbP57eNOtcol8yrC"
+        :id "3uIGREwbP57eNOtcol8yrC"
+        :images []
+        :name "Celtic Muse"
+        :popularity 20
+        :type "artist"
+        :uri "spotify:artist:3uIGREwbP57eNOtcol8yrC"
+      }
+      {
+        :external_urls {
+          :spotify "https://open.spotify.com/artist/1u3g8PeUxNzaQmolXTwZRL"
+        }
+        :followers {
+          :href nil
+          :total 198
+        }
+        :genres []
+        :href "https://api.spotify.com/v1/artists/1u3g8PeUxNzaQmolXTwZRL"
+        :id "1u3g8PeUxNzaQmolXTwZRL"
+        :images [
+          {
+            :height 640
+            :url "https://i.scdn.co/image/ab67616d0000b273b65379756a7767cc90eca7c0"
+            :width 640
+          }
+          {
+            :height 300
+            :url "https://i.scdn.co/image/ab67616d00001e02b65379756a7767cc90eca7c0"
+            :width 300
+          }
+          {
+            :height 64
+            :url "https://i.scdn.co/image/ab67616d00004851b65379756a7767cc90eca7c0"
+            :width 64
+          }
+        ]
+        :name "Iberian Muse"
+        :popularity 26
+        :type "artist"
+        :uri "spotify:artist:1u3g8PeUxNzaQmolXTwZRL"
+      }
+      {
+        :external_urls {
+          :spotify "https://open.spotify.com/artist/4WUHZVB8wkTnWXQGbF4SCz"
+        }
+        :followers {
+          :href nil
+          :total 660
+        }
+        :genres []
+        :href "https://api.spotify.com/v1/artists/4WUHZVB8wkTnWXQGbF4SCz"
+        :id "4WUHZVB8wkTnWXQGbF4SCz"
+        :images [
+          {
+            :height 640
+            :url "https://i.scdn.co/image/65e6eb4e725f2735d91ae58c2d95a5f7d37f672e"
+            :width 640
+          }
+          {
+            :height 320
+            :url "https://i.scdn.co/image/df122587b7a83b1f8f73c1b3e972bc39606adf27"
+            :width 320
+          }
+          {
+            :height 160
+            :url "https://i.scdn.co/image/fb07000355422dd5b65a4853284b0430d8673a72"
+            :width 160
+          }
+        ]
+        :name "Matt Muse"
+        :popularity 12
+        :type "artist"
+        :uri "spotify:artist:4WUHZVB8wkTnWXQGbF4SCz"
+      }
+      {
+        :external_urls {
+          :spotify "https://open.spotify.com/artist/7dwv5d4pNWa18YFMiXZiFi"
+        }
+        :followers {
+          :href nil
+          :total 209
+        }
+        :genres []
+        :href "https://api.spotify.com/v1/artists/7dwv5d4pNWa18YFMiXZiFi"
+        :id "7dwv5d4pNWa18YFMiXZiFi"
+        :images [
+          {
+            :height 640
+            :url "https://i.scdn.co/image/2094e57ac2d673414f5a733b1db969fcb402567d"
+            :width 640
+          }
+          {
+            :height 320
+            :url "https://i.scdn.co/image/56849064097581066c7d2051e5b5a464dad08f52"
+            :width 320
+          }
+          {
+            :height 160
+            :url "https://i.scdn.co/image/0767244f8c471f4b8f2ac1e7552ce15c6a3d2d8c"
+            :width 160
+          }
+        ]
+        :name "The Muse Maker"
+        :popularity 16
+        :type "artist"
+        :uri "spotify:artist:7dwv5d4pNWa18YFMiXZiFi"
+      }
+    ]
+    :limit 10
+    :next "https://api.spotify.com/v1/search?query=Muse&type=artist&offset=15&limit=10"
+    :offset 5
+    :previous "https://api.spotify.com/v1/search?query=Muse&type=artist&offset=0&limit=10"
+    :total 252
+  }
+}

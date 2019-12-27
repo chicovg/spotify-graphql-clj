@@ -1,0 +1,60 @@
+type PageInfo {
+    offset: Int!
+    limit: Int!
+    hasNext: Boolean!
+}
+
+type Track {
+    id: String!
+    name: String!
+    discNumber: Int
+    durationMs: Int
+    explicit: Boolean
+    popularity: Int
+    artists: [Artist]
+    album: Album
+}
+
+type TracksResult {
+    tracks: [Track]!
+    pageInfo: PageInfo!
+    totalCount: Int!
+}
+
+type Album {
+    id: String!
+    name: String!
+    releaseDate: String
+    totalTracks: Int
+    tracksConnection(market: String, limit: Int, offset: Int): TracksResult
+}
+
+type AlbumsResult {
+    albums: [Album]!
+    pageInfo: PageInfo!
+    totalCount: Int!
+}
+
+type Artist @key(fields: "id") @extends {
+    id: String!
+    name: String!
+    genres: [String]
+    popularity: Int
+    related: [Artist]
+    albumsConnection(market: String, limit: Int, offset: Int): AlbumsResult
+    topTracks: [Track]
+}
+
+type ArtistsSearchResult {
+    artists: [Artist]!
+    pageInfo: PageInfo!
+    totalCount: Int!
+}
+
+type Query {
+    searchArtists(query: String!, limit: Int, offset: Int, market: String): ArtistsSearchResult
+}
+
+schema {
+    query: Query
+}

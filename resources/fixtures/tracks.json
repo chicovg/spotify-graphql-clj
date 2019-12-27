@@ -1,0 +1,284 @@
+{
+  "href": "https://api.spotify.com/v1/albums/4NsEoWIWhSuKPx7yMqOR2x/tracks?offset=0&limit=20&market=US",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Kmu8WMvlSJkjDdOB3I0Qq"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Kmu8WMvlSJkjDdOB3I0Qq",
+          "id": "3Kmu8WMvlSJkjDdOB3I0Qq",
+          "name": "Adriano Tenorio",
+          "type": "artist",
+          "uri": "spotify:artist:3Kmu8WMvlSJkjDdOB3I0Qq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6SZIlHbt9ycrGuzlIIcsQn"
+          },
+          "href": "https://api.spotify.com/v1/artists/6SZIlHbt9ycrGuzlIIcsQn",
+          "id": "6SZIlHbt9ycrGuzlIIcsQn",
+          "name": "Vinson McMurtery",
+          "type": "artist",
+          "uri": "spotify:artist:6SZIlHbt9ycrGuzlIIcsQn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 498253,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/37k8ekKcZe0THzXe020l4t"
+      },
+      "href": "https://api.spotify.com/v1/tracks/37k8ekKcZe0THzXe020l4t",
+      "id": "37k8ekKcZe0THzXe020l4t",
+      "is_local": false,
+      "is_playable": true,
+      "name": "We Kinda Music (feat. Adriano Tenorio & Vinson McMurtery)",
+      "preview_url": "https://p.scdn.co/mp3-preview/5b912ef26393ee74cf47d5c8744cebc121cf51ac?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:37k8ekKcZe0THzXe020l4t"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0eo7FzVgKyQ0cOjGw2dd3f"
+          },
+          "href": "https://api.spotify.com/v1/artists/0eo7FzVgKyQ0cOjGw2dd3f",
+          "id": "0eo7FzVgKyQ0cOjGw2dd3f",
+          "name": "Isaac Narell",
+          "type": "artist",
+          "uri": "spotify:artist:0eo7FzVgKyQ0cOjGw2dd3f"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2QtRzMAvqrAOEt463jB8Z3"
+          },
+          "href": "https://api.spotify.com/v1/artists/2QtRzMAvqrAOEt463jB8Z3",
+          "id": "2QtRzMAvqrAOEt463jB8Z3",
+          "name": "Grégory Louis",
+          "type": "artist",
+          "uri": "spotify:artist:2QtRzMAvqrAOEt463jB8Z3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 758666,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5603tkHtPxHOJN0zKjv9ur"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5603tkHtPxHOJN0zKjv9ur",
+      "id": "5603tkHtPxHOJN0zKjv9ur",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Abacoco (feat. Isaac Narell & Gregory Louis)",
+      "preview_url": "https://p.scdn.co/mp3-preview/2a057f847c6f78e444af17459b0fbb22ced327e9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5603tkHtPxHOJN0zKjv9ur"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7kSrjzacwKIROT4LaF6OqO"
+          },
+          "href": "https://api.spotify.com/v1/artists/7kSrjzacwKIROT4LaF6OqO",
+          "id": "7kSrjzacwKIROT4LaF6OqO",
+          "name": "Great Animal Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:7kSrjzacwKIROT4LaF6OqO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/453Rlyaam6zdXxWIfB9vPV"
+          },
+          "href": "https://api.spotify.com/v1/artists/453Rlyaam6zdXxWIfB9vPV",
+          "id": "453Rlyaam6zdXxWIfB9vPV",
+          "name": "Jesús Díaz",
+          "type": "artist",
+          "uri": "spotify:artist:453Rlyaam6zdXxWIfB9vPV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 605213,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3suwd79KsB7t96i68uQD1T"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3suwd79KsB7t96i68uQD1T",
+      "id": "3suwd79KsB7t96i68uQD1T",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Jungle Music (feat. Great Animal Orchestra & Jesus Diaz)",
+      "preview_url": "https://p.scdn.co/mp3-preview/60684a04bb7d61f65136923f9d6cb4bab4e1e096?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3suwd79KsB7t96i68uQD1T"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Kmu8WMvlSJkjDdOB3I0Qq"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Kmu8WMvlSJkjDdOB3I0Qq",
+          "id": "3Kmu8WMvlSJkjDdOB3I0Qq",
+          "name": "Adriano Tenorio",
+          "type": "artist",
+          "uri": "spotify:artist:3Kmu8WMvlSJkjDdOB3I0Qq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6SZIlHbt9ycrGuzlIIcsQn"
+          },
+          "href": "https://api.spotify.com/v1/artists/6SZIlHbt9ycrGuzlIIcsQn",
+          "id": "6SZIlHbt9ycrGuzlIIcsQn",
+          "name": "Vinson McMurtery",
+          "type": "artist",
+          "uri": "spotify:artist:6SZIlHbt9ycrGuzlIIcsQn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 600880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5DOvY0s0eox8KzKJvvLNCr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5DOvY0s0eox8KzKJvvLNCr",
+      "id": "5DOvY0s0eox8KzKJvvLNCr",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Pan Magic (feat. Adriano Tenorio & Vinson McMurtery)",
+      "preview_url": "https://p.scdn.co/mp3-preview/9770db4f632ad54e01a6c50c2fa677037c33a49f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5DOvY0s0eox8KzKJvvLNCr"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 265173,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1vDE22iIEsAhV5l9wcqPcx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1vDE22iIEsAhV5l9wcqPcx",
+      "id": "1vDE22iIEsAhV5l9wcqPcx",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Etude for Ellie",
+      "preview_url": "https://p.scdn.co/mp3-preview/68d0da60d35d9d5d8b346002a17950a01d2e01bf?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1vDE22iIEsAhV5l9wcqPcx"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+          "id": "5lFXWUhnMLnuubYAtgKKXa",
+          "name": "Andy Narell",
+          "type": "artist",
+          "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Kmu8WMvlSJkjDdOB3I0Qq"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Kmu8WMvlSJkjDdOB3I0Qq",
+          "id": "3Kmu8WMvlSJkjDdOB3I0Qq",
+          "name": "Adriano Tenorio",
+          "type": "artist",
+          "uri": "spotify:artist:3Kmu8WMvlSJkjDdOB3I0Qq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6SZIlHbt9ycrGuzlIIcsQn"
+          },
+          "href": "https://api.spotify.com/v1/artists/6SZIlHbt9ycrGuzlIIcsQn",
+          "id": "6SZIlHbt9ycrGuzlIIcsQn",
+          "name": "Vinson McMurtery",
+          "type": "artist",
+          "uri": "spotify:artist:6SZIlHbt9ycrGuzlIIcsQn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 545426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1rGg2BSubYXjkF5BHpwSNn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1rGg2BSubYXjkF5BHpwSNn",
+      "id": "1rGg2BSubYXjkF5BHpwSNn",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Dis 1.4. Raf (feat. Adriano Tenorio & Vinson McMurtery)",
+      "preview_url": "https://p.scdn.co/mp3-preview/45d1fe76d5f80f39981beb8b0dc553a04351f01f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1rGg2BSubYXjkF5BHpwSNn"
+    }
+  ],
+  "limit": 20,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 6
+}

@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "href": "https://api.spotify.com/v1/search?query=andy+narell&type=artist&offset=0&limit=20",
+    "items": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5lFXWUhnMLnuubYAtgKKXa"
+        },
+        "followers": {
+          "href": null,
+          "total": 2409
+        },
+        "genres": [
+          "steelpan"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5lFXWUhnMLnuubYAtgKKXa",
+        "id": "5lFXWUhnMLnuubYAtgKKXa",
+        "images": [
+          {
+            "height": 1362,
+            "url": "https://i.scdn.co/image/4072fdf46a6c2c9df4542fb54e4093e5a88c71f5",
+            "width": 1000
+          },
+          {
+            "height": 872,
+            "url": "https://i.scdn.co/image/661e6762c5180ba768f1bd164ba88d0c8d7e10e5",
+            "width": 640
+          },
+          {
+            "height": 272,
+            "url": "https://i.scdn.co/image/86933ec6c1106f28035a326ea9129ae2ff770a54",
+            "width": 200
+          },
+          {
+            "height": 87,
+            "url": "https://i.scdn.co/image/8c9dabd92b760223c25db8372d3e3d12ea8dd483",
+            "width": 64
+          }
+        ],
+        "name": "Andy Narell",
+        "popularity": 24,
+        "type": "artist",
+        "uri": "spotify:artist:5lFXWUhnMLnuubYAtgKKXa"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5nfgu8jlbEMB6FTofbuDzu"
+        },
+        "followers": {
+          "href": null,
+          "total": 137
+        },
+        "genres": [
+          "calypso"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5nfgu8jlbEMB6FTofbuDzu",
+        "id": "5nfgu8jlbEMB6FTofbuDzu",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27364f3d595ce609d060642799b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0264f3d595ce609d060642799b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485164f3d595ce609d060642799b",
+            "width": 64
+          }
+        ],
+        "name": "Andy Narell & Relator",
+        "popularity": 10,
+        "type": "artist",
+        "uri": "spotify:artist:5nfgu8jlbEMB6FTofbuDzu"
+      }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  }
+}
